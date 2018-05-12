@@ -1,0 +1,51 @@
+_repo: Kertoelmia-ja-jutelmiaSuomennoksia-ja-alkuper-isi-_34652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Erg, Julle
+    gutenberg_agent_id: '37010'
+    url: http://www.gutenberg.org/2009/agents/37010
+  - agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  - agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+  - agent_name: Dilling, Lars
+    alias: Dilling, L.
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '37345'
+    url: http://www.gutenberg.org/2009/agents/37345
+description: ''
+gutenberg_issued: '2010-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34652'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Fiction'
+tableOfContents: Vihriäisiä seppeleitä / L. Dilling -- Vähäiset vaatimukset / L. Dilling
+  -- Matami Engebretsen / L. Dilling -- Omeletti / L. Dilling -- Pitkä odotus / Bret
+  Harte -- Kelloni / Mark Twain -- Aurelian onneton sulhanen / Mark Twain -- Antti-maisteri
+  / --r --r -- Naisen kavaluuden seuraukset / Julle Erg.
+title: 'Kertoelmia ja jutelmia: Suomennoksia ja alkuperäisiä'
+url: http://www.gutenberg.org/ebooks/34652
